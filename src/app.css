@@ -179,6 +179,10 @@
 		@apply ms-3 ps-1;
 	}
 
+	div:has(> table) {
+		@apply table-container;
+	}
+
 	table {
 		@apply grid md:place-content-center;
 	}
