@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+@theme {
+	--color-mnlila: oklch(0.18 0.0957 296);
+}
