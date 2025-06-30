@@ -3,10 +3,6 @@ title: 和語
 desc: わごー
 ---
 
-<script>
-    import A from '../test.svx';
-</script>
-
 <svelte:head>
 <title>{title}</title>
 <meta property="og:title" content="{title} - 終末式ローマ字" />
