@@ -1,6 +1,6 @@
 ---
-title: 和語
-desc: わごー
+title: 動詞
+desc: どーしー
 ---
 
 <svelte:head>

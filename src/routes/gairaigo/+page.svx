@@ -1,6 +1,6 @@
 ---
-title: 漢語
-desc: かんごー
+title: 和語
+desc: わごー
 ---
 
 <svelte:head>

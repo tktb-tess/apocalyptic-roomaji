@@ -160,11 +160,11 @@
 	}
 
 	h2 {
-		@apply text-3xl ps-1 border-b-3 border-double;
+		@apply text-2xl lg:text-3xl ps-1 border-b-3 border-double;
 	}
 
 	h3 {
-		@apply text-2xl;
+		@apply text-xl lg:text-2xl;
 	}
 
 	ul {
