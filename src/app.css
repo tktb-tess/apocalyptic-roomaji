@@ -156,11 +156,11 @@
 	}
 
 	h1 {
-		@apply text-3xl md:text-4xl lg:text-5xl text-center my-8;
+		@apply text-3xl md:text-4xl xl:text-5xl text-center my-8;
 	}
 
 	h2 {
-		@apply text-3xl;
+		@apply text-3xl ps-1 border-b-3 border-double;
 	}
 
 	h3 {
