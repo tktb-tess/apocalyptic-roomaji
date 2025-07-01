@@ -184,13 +184,7 @@
 	}
 
 	table {
-		@apply grid md:place-content-center;
-	}
-
-	thead,
-	tbody,
-	tr {
-		@apply contents;
+		@apply mx-auto w-max max-w-full;
 	}
 
 	tbody {
@@ -209,7 +203,7 @@
 
 	td,
 	th {
-		@apply block text-center font-normal px-2 py-1 text-nowrap;
+		@apply font-normal px-2 py-1 text-nowrap;
 	}
 
 	tr > td {

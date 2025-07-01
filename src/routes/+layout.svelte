@@ -13,4 +13,6 @@
 	<meta name="twitter:site" content="@triethylamineq" />
 </svelte:head>
 
-{@render children()}
+<div class="flow-root m-0 px-4 xl:mx-auto xl:max-w-[80rem]">
+	{@render children()}
+</div>
