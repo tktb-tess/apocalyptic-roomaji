@@ -16,8 +16,6 @@ desc: 終わりのローマ字
 
 # {title}
 
-[悠久肆方体へ](https://tktb-tess.dev)
-
 <p class="text-[red] text-center font-bold">※リニューアル中。このページの情報は古いかもしれないのであしからず。</p>
 
 - 和語

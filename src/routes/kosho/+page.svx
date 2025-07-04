@@ -20,6 +20,8 @@ desc: こうしょうって200種類あるねん
 
 歴史的仮名遣と大して変わらん。
 
+<div>
+
 | こうしょう | 終ロ表記  | 中古音 (Baxter表記) |
 | :--------- | :-------- | :------------------ |
 | 巧匠       | kausyağ   | khæwX dzjangH       |
@@ -67,3 +69,5 @@ desc: こうしょうって200種類あるねん
 | 鴻鐘       | koğsyoğ   | huwng tsyowng       |
 | 洪昇       | koğsyoğ   | huwng sying         |
 | 哄笑       | koğsyeu   | huwngH sjewH        |
+
+</div>
